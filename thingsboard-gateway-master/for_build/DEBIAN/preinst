@@ -1,0 +1,23 @@
+#!/bin/sh
+set -e
+
+echo "Preinst: Ensuring required directories exist..."
+
+for dir in /etc/thingsboard-gateway /var/lib/thingsboard_gateway /var/log/thingsboard-gateway /var/lib/thingsboard_gateway/extensions; do
+    if [ ! -d "$dir" ]; then
+        echo "Preinst: Creating directory $dir..."
+        mkdir -p "$dir"
+    else
+        echo "Preinst: Directory $dir already exists."
+    fi
+done
+
+echo "Preinst: Checking for system user 'thingsboard_gateway'..."
+if id "thingsboard_gateway" >/dev/null 2>&1; then
+    echo "Preinst: User 'thingsboard_gateway' already exists. Skipping creation."
+else
+    adduser --system --gecos "ThingsBoard-Gateway Service" --disabled-password --group --home /var/lib/thingsboard_gateway thingsboard_gateway
+    echo "Preinst: Created user 'thingsboard_gateway'."
+fi
+
+exit 0
