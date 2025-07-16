@@ -1,0 +1,84 @@
+2025-07-16 14:36:17.064 - |INFO| - [tb_client.py] - tb_client - connect - 394 - Connecting to ThingsBoard...
+2025-07-16 14:36:17.064 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 14:36:17.095 - |WARNING| - [tb_client.py] - tb_client - connect - 407 - Cannot use TLS connection on this port. Client will try to connect without TLS.
+2025-07-16 14:36:17.096 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 14:36:17.160 - |INFO| - [tb_client.py] - tb_client - _on_connect - 314 - MQTT client connected to platform console.plate.team: 1883
+2025-07-16 14:36:17.169 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 600 - MQTT client <paho.mqtt.client.Client object at 0x000002365E4A8440> - Connected!
+2025-07-16 14:36:17.187 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 927 - Service configuration was successfully retrieved and applied.
+2025-07-16 14:36:17.187 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 928 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-07-16 14:36:17.187 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 345 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-07-16 14:36:18.823 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 267 - Subscribed to *|* with id 1 for device *
+2025-07-16 14:36:32.900 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_unsubscribe - 275 - Unsubscribed from *|*, subscription id '*'
+2025-07-16 14:36:32.901 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 591 - MQTT client was disconnected by client with reason code 0 (Normal disconnection) 
+2025-07-16 14:36:45.019 - |INFO| - [tb_client.py] - tb_client - connect - 394 - Connecting to ThingsBoard...
+2025-07-16 14:36:45.020 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 14:36:45.040 - |WARNING| - [tb_client.py] - tb_client - connect - 407 - Cannot use TLS connection on this port. Client will try to connect without TLS.
+2025-07-16 14:36:45.041 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 14:36:45.109 - |INFO| - [tb_client.py] - tb_client - _on_connect - 314 - MQTT client connected to platform console.plate.team: 1883
+2025-07-16 14:36:45.110 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 600 - MQTT client <paho.mqtt.client.Client object at 0x000001EB9899A120> - Connected!
+2025-07-16 14:36:45.142 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 927 - Service configuration was successfully retrieved and applied.
+2025-07-16 14:36:45.143 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 928 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-07-16 14:36:45.143 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 345 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-07-16 14:36:46.774 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 267 - Subscribed to *|* with id 1 for device *
+2025-07-16 15:46:01.340 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_unsubscribe - 275 - Unsubscribed from *|*, subscription id '*'
+2025-07-16 15:46:01.342 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 591 - MQTT client was disconnected by client with reason code 0 (Normal disconnection) 
+2025-07-16 16:12:16.307 - |INFO| - [tb_client.py] - tb_client - connect - 394 - Connecting to ThingsBoard...
+2025-07-16 16:12:16.308 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:12:16.337 - |WARNING| - [tb_client.py] - tb_client - connect - 407 - Cannot use TLS connection on this port. Client will try to connect without TLS.
+2025-07-16 16:12:16.337 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:12:16.355 - |INFO| - [tb_client.py] - tb_client - _on_connect - 314 - MQTT client connected to platform console.plate.team: 1883
+2025-07-16 16:12:16.355 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 600 - MQTT client <paho.mqtt.client.Client object at 0x000001C8BD402F90> - Connected!
+2025-07-16 16:12:16.368 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 927 - Service configuration was successfully retrieved and applied.
+2025-07-16 16:12:16.369 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 928 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-07-16 16:12:16.369 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 345 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-07-16 16:12:18.282 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 267 - Subscribed to *|* with id 1 for device *
+2025-07-16 16:15:34.273 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_unsubscribe - 275 - Unsubscribed from *|*, subscription id '*'
+2025-07-16 16:15:34.274 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 591 - MQTT client was disconnected by client with reason code 0 (Normal disconnection) 
+2025-07-16 16:15:39.028 - |INFO| - [tb_client.py] - tb_client - connect - 394 - Connecting to ThingsBoard...
+2025-07-16 16:15:39.028 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:15:39.066 - |WARNING| - [tb_client.py] - tb_client - connect - 407 - Cannot use TLS connection on this port. Client will try to connect without TLS.
+2025-07-16 16:15:39.066 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:15:39.118 - |INFO| - [tb_client.py] - tb_client - _on_connect - 314 - MQTT client connected to platform console.plate.team: 1883
+2025-07-16 16:15:39.118 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 600 - MQTT client <paho.mqtt.client.Client object at 0x000001B26A202F90> - Connected!
+2025-07-16 16:15:39.144 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 927 - Service configuration was successfully retrieved and applied.
+2025-07-16 16:15:39.144 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 928 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-07-16 16:15:39.145 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 345 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-07-16 16:15:40.945 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 267 - Subscribed to *|* with id 1 for device *
+2025-07-16 16:17:18.515 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_unsubscribe - 275 - Unsubscribed from *|*, subscription id '*'
+2025-07-16 16:17:18.515 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 591 - MQTT client was disconnected by client with reason code 0 (Normal disconnection) 
+2025-07-16 16:17:21.912 - |INFO| - [tb_client.py] - tb_client - connect - 394 - Connecting to ThingsBoard...
+2025-07-16 16:17:21.912 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:17:21.962 - |WARNING| - [tb_client.py] - tb_client - connect - 407 - Cannot use TLS connection on this port. Client will try to connect without TLS.
+2025-07-16 16:17:21.962 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:17:22.023 - |INFO| - [tb_client.py] - tb_client - _on_connect - 314 - MQTT client connected to platform console.plate.team: 1883
+2025-07-16 16:17:22.023 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 600 - MQTT client <paho.mqtt.client.Client object at 0x00000254D3EA2F90> - Connected!
+2025-07-16 16:17:22.037 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 927 - Service configuration was successfully retrieved and applied.
+2025-07-16 16:17:22.037 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 928 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-07-16 16:17:22.037 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 345 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-07-16 16:17:23.791 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 267 - Subscribed to *|* with id 1 for device *
+2025-07-16 16:18:42.287 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_unsubscribe - 275 - Unsubscribed from *|*, subscription id '*'
+2025-07-16 16:18:42.288 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 591 - MQTT client was disconnected by client with reason code 0 (Normal disconnection) 
+2025-07-16 16:18:53.957 - |INFO| - [tb_client.py] - tb_client - connect - 394 - Connecting to ThingsBoard...
+2025-07-16 16:18:53.957 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:18:53.985 - |WARNING| - [tb_client.py] - tb_client - connect - 407 - Cannot use TLS connection on this port. Client will try to connect without TLS.
+2025-07-16 16:18:53.985 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:18:54.020 - |INFO| - [tb_client.py] - tb_client - _on_connect - 314 - MQTT client connected to platform console.plate.team: 1883
+2025-07-16 16:18:54.021 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 600 - MQTT client <paho.mqtt.client.Client object at 0x0000021F17402F90> - Connected!
+2025-07-16 16:18:54.026 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 927 - Service configuration was successfully retrieved and applied.
+2025-07-16 16:18:54.027 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 928 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-07-16 16:18:54.027 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 345 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-07-16 16:18:55.789 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 267 - Subscribed to *|* with id 1 for device *
+2025-07-16 16:20:39.536 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_unsubscribe - 275 - Unsubscribed from *|*, subscription id '*'
+2025-07-16 16:20:39.537 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 591 - MQTT client was disconnected by client with reason code 0 (Normal disconnection) 
+2025-07-16 16:20:59.252 - |INFO| - [tb_client.py] - tb_client - connect - 394 - Connecting to ThingsBoard...
+2025-07-16 16:20:59.252 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:20:59.319 - |WARNING| - [tb_client.py] - tb_client - connect - 407 - Cannot use TLS connection on this port. Client will try to connect without TLS.
+2025-07-16 16:20:59.319 - |INFO| - [tb_client.py] - tb_client - __send_connect - 423 - Sending connect to console.plate.team:1883
+2025-07-16 16:20:59.337 - |INFO| - [tb_client.py] - tb_client - _on_connect - 314 - MQTT client connected to platform console.plate.team: 1883
+2025-07-16 16:20:59.338 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 600 - MQTT client <paho.mqtt.client.Client object at 0x000001D6048130E0> - Connected!
+2025-07-16 16:20:59.374 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 927 - Service configuration was successfully retrieved and applied.
+2025-07-16 16:20:59.374 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 928 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-07-16 16:20:59.374 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 345 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-07-16 16:21:01.226 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 267 - Subscribed to *|* with id 1 for device *
+2025-07-16 16:25:30.777 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_unsubscribe - 275 - Unsubscribed from *|*, subscription id '*'
+2025-07-16 16:25:30.779 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 591 - MQTT client was disconnected by client with reason code 0 (Normal disconnection) 

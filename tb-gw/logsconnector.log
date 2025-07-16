@@ -1,0 +1,23 @@
+2025-07-16 16:12:16.248 - |ERROR| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 37 - [WaTagRestConnector] Error loading converter: type object 'WaTagRestConverter' has no attribute 'WaTagRestConverter'
+2025-07-16 16:12:16.248 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 40 - [WaTagRestConnector] Initialized with polling interval 60.0 sec
+2025-07-16 16:12:16.249 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - open - 43 - [WaTagRestConnector] Connector thread started
+2025-07-16 16:15:34.264 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - close - 74 - [WaTagRestConnector] Connector stopped
+2025-07-16 16:15:38.987 - |ERROR| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 37 - [WaTagRestConnector] Error loading converter: type object 'WaTagRestConverter' has no attribute 'WaTagRestConverter'
+2025-07-16 16:15:38.987 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 40 - [WaTagRestConnector] Initialized with polling interval 60.0 sec
+2025-07-16 16:15:38.987 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - open - 43 - [WaTagRestConnector] Connector thread started
+2025-07-16 16:15:39.113 - |WARNING| - [WaTagRestConnector.py] - WaTagRestConnector - run - 64 - [WaTagRestConnector] HTTP error no response
+2025-07-16 16:16:39.213 - |WARNING| - [WaTagRestConnector.py] - WaTagRestConnector - run - 64 - [WaTagRestConnector] HTTP error no response
+2025-07-16 16:17:18.514 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - close - 74 - [WaTagRestConnector] Connector stopped
+2025-07-16 16:17:21.875 - |ERROR| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 37 - [WaTagRestConnector] Error loading converter: type object 'WaTagRestConverter' has no attribute 'WaTagRestConverter'
+2025-07-16 16:17:21.876 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 40 - [WaTagRestConnector] Initialized with polling interval 60.0 sec
+2025-07-16 16:17:21.876 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - open - 43 - [WaTagRestConnector] Connector thread started
+2025-07-16 16:17:22.013 - |WARNING| - [WaTagRestConnector.py] - WaTagRestConnector - run - 64 - [WaTagRestConnector] HTTP error no response
+2025-07-16 16:18:22.115 - |WARNING| - [WaTagRestConnector.py] - WaTagRestConnector - run - 64 - [WaTagRestConnector] HTTP error no response
+2025-07-16 16:18:42.287 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - close - 74 - [WaTagRestConnector] Connector stopped
+2025-07-16 16:18:53.916 - |ERROR| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 37 - [WaTagRestConnector] Error loading converter: type object 'WaTagRestConverter' has no attribute 'WaTagRestConverter'
+2025-07-16 16:18:53.917 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 40 - [WaTagRestConnector] Initialized with polling interval 60.0 sec
+2025-07-16 16:18:53.918 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - open - 43 - [WaTagRestConnector] Connector thread started
+2025-07-16 16:20:39.536 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - close - 74 - [WaTagRestConnector] Connector stopped
+2025-07-16 16:20:59.217 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - __init__ - 39 - [WaTagRestConnector] Initialized with polling interval 60.0 sec
+2025-07-16 16:20:59.217 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - open - 42 - [WaTagRestConnector] Connector thread started
+2025-07-16 16:25:30.766 - |INFO| - [WaTagRestConnector.py] - WaTagRestConnector - close - 73 - [WaTagRestConnector] Connector stopped
